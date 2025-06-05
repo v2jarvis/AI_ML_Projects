@@ -1,2 +1,3 @@
 # AI_ML_Projects
 A curated collection of hands-on Machine Learning and Advanced AI projects, covering classical ML, deep learning, NLP, and generative AI. Built to strengthen core concepts and showcase real-world applications.
+This repository contains a series of end-to-end projects designed to build and demonstrate expertise in Machine Learning and Artificial Intelligence. From predictive analytics and recommendation systems to advanced NLP and generative models, each project is structured to cover data handling, model building, evaluation, and deployment. Ideal for portfolio building and job readiness in ML/AI roles.
